@@ -1,0 +1,2 @@
+tqdm==4.48.2
+insta-scrape==0.3.0
